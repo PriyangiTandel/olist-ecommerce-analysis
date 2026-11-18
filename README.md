@@ -38,7 +38,7 @@ I left out states with fewer than 100 orders from the late-orders chart, because
 - Start with the states where the problem is biggest. AL has the highest share of late orders (23.9%), and RJ has a large number of late orders (1,664, or 13.5% of its orders).
 - Look at the promised delivery dates. In states like AL, where deliveries are both slow and often late, the shop could set more realistic delivery estimates, or speed up shipping. This needs a closer look, because the data can’t tell us the cause.
 
-- ## Tools used
+## Tools used
 SQL (SQLite, DB Browser for SQLite) for analysis, Power BI Desktop for the dashboard, Kaggle for the data.
 
 ## Files in this repository
