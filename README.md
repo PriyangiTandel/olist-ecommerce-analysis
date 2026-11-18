@@ -1,4 +1,5 @@
 # Olist E-commerce Analysis: Sales and Delivery Performance 
+![Dashboard](dashboard.png)
 
 Olist project we get it from kaggle ,that is brazilian online shop data
 “The data runs from September 2016 to August 2018, about two years. There are no orders in November 2016, and 2016 overall has very few orders, so I treat 2016 as too small to show a trend.” 
